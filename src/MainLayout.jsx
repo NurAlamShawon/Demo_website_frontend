@@ -9,6 +9,7 @@ import WhatWeDosection from './Components/WhatWeDosection';
 import Mockupsection from './Components/Mockupsection';
 import Digitalsection from './Components/Digitalsection';
 import Contactus from './Components/Contactus';
+import Footer from './Components/Footer';
 
 const MainLayout = () => {
     return (
@@ -23,6 +24,7 @@ const MainLayout = () => {
             <Mockupsection/>
             <Digitalsection/>
             <Contactus/>
+            <Footer/>
             
         </div>
     );

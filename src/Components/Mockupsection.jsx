@@ -2,7 +2,7 @@ import React from "react";
 
 const Mockupsection = () => {
   return (
-    <div className="h-380 xl:h-220 bg-[url('https://i.postimg.cc/J48HCwrs/federica-giusti-OPUvjfl-Usyo-unsplash.jpg')] bg-cover bg-center h-96 w-full">
+    <div className="h-400 xl:h-220 bg-[url('https://i.postimg.cc/J48HCwrs/federica-giusti-OPUvjfl-Usyo-unsplash.jpg')] bg-cover bg-center h-96 w-full">
       <div className="relative">
         <img
           src="https://i.postimg.cc/DyXC462L/alessandro-fazari-h-Sw--OS6-Tk6-Gg-unsplash.jpg"
