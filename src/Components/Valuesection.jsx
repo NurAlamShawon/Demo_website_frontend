@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Valuesecion = () => {
+const Valuesection = () => {
     return (
         <div>
             
@@ -8,4 +8,4 @@ const Valuesecion = () => {
     );
 };
 
-export default Valuesecion;
+export default Valuesection;
