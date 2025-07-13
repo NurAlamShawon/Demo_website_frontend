@@ -15,7 +15,7 @@ const Herosection = () => {
             nesciunt eligendi quibusdam, corporis fuga commodi nulla eos aut?
           </p>
           <p className="text-xl font-regular">
-            Image from<span className="underline"> Freepik</span>
+            Image from <a href="https://www.freepik.com" className="underline">Freepik</a>
           </p>
           <button className="btn px-10 py-6 text-gray-300 bg-black rounded-xl">
             VIEW PORTFOLIO
